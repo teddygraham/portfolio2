@@ -1,0 +1,3 @@
+export default {
+p92e5480: "M5.5 13.5H18.5M23 6.5V26H1V1H17V6.5H23Z",
+}
